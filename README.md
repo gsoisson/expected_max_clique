@@ -4,7 +4,7 @@
 
 > An advertising company wants to select a group of people in which there exists a **large subset of group members** such that they all know each other. The company only knows the number of persons $n$ in the group and the probability $p$ that two persons in the group know each other.
 
-## Mathematical Modelling
+## Mathematical Modeling
 
 Let $G=(V,E)$ be an undirected graph, where $V=1, 2,..,n$ and $E⊂V×V$. Formally, a clique $C$ is a subset of vertices such that all vertices in $C$ share an edge, $C⊂V$ and $(i,j)∈E$ for any $i,j∈C$.
 
